@@ -1,0 +1,6 @@
+NESW
+4 4
+OOOX
+XOXX
+XOOX 
+XXEO
